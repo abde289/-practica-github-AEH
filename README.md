@@ -1,4 +1,4 @@
 ## Sobre mí
-- Nombre <Abdelilah>
+- Nombre Abdelilah
 - Curso: 1ª DAM
-- Afición: <Fitbol>
+- Afición: Fitbol
